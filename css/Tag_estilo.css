@@ -1,0 +1,11 @@
+h1{
+    color: rgb(178, 240, 97);
+}
+h2{
+    color: rgb(96, 136, 43)
+}
+hr{
+    height: 2px;
+    background-color: rgb(44, 66, 35);
+    color : rgba(202, 90, 90,0);
+}
